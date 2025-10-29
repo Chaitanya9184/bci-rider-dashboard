@@ -12,5 +12,5 @@ export default defineConfig({
   // you must change the line below to:
   // base: '/my-cool-app/',
   // ===================================================================================
-  base: '/repository-name/', 
+  base: '/bci-rider-dashboard/', 
 })
