@@ -1,0 +1,5 @@
+{
+  "name": "BCI Rider Dashboard",
+  "description": "An interactive dashboard for the Bikers Creed India (BCI) motorcycle club to manage rides, assign roles, and view rider statistics.",
+  "requestFramePermissions": []
+}
