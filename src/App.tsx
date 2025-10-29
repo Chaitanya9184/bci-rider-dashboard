@@ -18,7 +18,7 @@ import { CrownIcon, SteeringWheelIcon, BroomIcon, RouteIcon, UsersIcon, UserPlus
 // You MUST replace the placeholder below with your actual Google Apps Script Web App URL.
 // If you don't, features like avatar changes, ride creation, and stat updates will NOT be saved.
 // ===================================================================================
-const APPS_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbw.../exec'; 
+const APPS_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbygIfrUR7CwbJgUl68cEbfvhlXlYKeuaaBCTVoWRDhx4AXvo3jKVaPVIpjutvU5kO7f/exec'; 
 
 const App: React.FC = () => {
   const { theme, setTheme, resetTheme } = useTheme();
